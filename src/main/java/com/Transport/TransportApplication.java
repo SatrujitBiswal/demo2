@@ -8,8 +8,8 @@ public class TransportApplication {
 
 	public static void main(String[] args) {
 		//Transport play
-		char x='w';
-		SpringApplication.run(TransportApplication.class, args);
+    	int x=13;
+SpringApplication.run(TransportApplication.class, args);
 	}
 
 }
